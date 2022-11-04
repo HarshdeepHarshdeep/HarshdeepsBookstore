@@ -55,3 +55,8 @@ Time:- 1230
 18. After trying to create the dropdown menu, I moved to the next part to add the projects.
 
 19. 
+
+
+
+Install-Package Microsoft.EntityFramework Core.Relation-version 3.1.16
+
