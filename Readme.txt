@@ -38,6 +38,7 @@ Time:- 1230
 
 15. added to the _Layout.cshtml page the additional stylesheets and scripts from the CSS_JStxt file.
 
+TIme :- 1300
 16. CSS:
 	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css" />
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css" />
@@ -54,9 +55,8 @@ Time:- 1230
 
 18. After trying to create the dropdown menu, I moved to the next part to add the projects.
 
-19. 
-
-
+19. I got the error but I fixed it later because I wrote the wrong command.
 
 Install-Package Microsoft.EntityFramework Core.Relation-version 3.1.16
 
+20. I tried to clone the respositry in lab to show but my project not found.
